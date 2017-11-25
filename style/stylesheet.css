@@ -1,0 +1,38 @@
+body {
+	background: url("../images/background2.jpg");
+	background-size: auto 165%;
+  	background-repeat: no-repeat;
+  	background-position: center;
+  	background-attachment: fixed;
+  	color: black;
+  	font-size: 30px;
+	font-family: Arial Narrow, sans-serif;
+}
+body hr {
+	color: white;
+	width: 100%;
+}
+.jumbotron {
+	background: none;
+}
+.jumbotron h2 {
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 50px;
+	font-weight: bold;
+}
+#score {
+	font-size: 30px;
+}
+#good_message {
+	color: green;
+	font-size: 25px;
+}
+.bad_message {
+	color: red;
+	font-size: 25px;
+}
+.login label {
+	transform: translate(0%, -10%);
+	font-size: 20px;
+}
