@@ -1,4 +1,4 @@
-Mike Hoang, STUDENT_NUMBER, 1D, EMAIL_ADDRESS
+--Partner removed for privacy--
 Jeffery Wasty, A01027014, 1D, jwasty@my.bcit.ca
 -----------------------------------------------
 Completed
